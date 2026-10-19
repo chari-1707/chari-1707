@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <samp>Computer Science & Engineering · Developer · Lifelong Learner</samp>
+  <samp>Full Stack Developer · Backend Engineering · System Design</samp>
 </p>
 
 <p align="center">
@@ -32,23 +32,21 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=45&lines=Curious+Mind.+Builder%27s+Mindset.;Think+Deeply.+Build+Fearlessly.;Always+Under+Construction."
-    alt="Curious mind, builder's mindset"
+    alt="Developer mindset"
   />
 </p>
 
 <p align="center">
   <samp>
-    I turn curiosity into code and ideas into reality.
+    Building useful things, one line of code at a time.
     <br/>
-    Learning the fundamentals. Building real things.
-    <br/>
-    Always exploring what's possible.
+    Focused on learning, solving problems, and getting better.
   </samp>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FOCUS-Backend%20%26%20Full%20Stack-0D1117?style=flat-square&color=00E5FF" alt="Backend and full stack"/>
-  <img src="https://img.shields.io/badge/MINDSET-Always%20Learning-0D1117?style=flat-square&color=8B5CF6" alt="Always learning"/>
+  <img src="https://img.shields.io/badge/EXPLORING-System%20Design-0D1117?style=flat-square&color=8B5CF6" alt="System design"/>
 </p>
 
 ---
@@ -80,12 +78,12 @@
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/DevOps%20%26%20Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="DevOps and Linux"/>
       <br/><br/>
-      <sub>Learning infrastructure, automation, and deployment.</sub>
+      <sub>Exploring infrastructure, automation, and deployment.</sub>
     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="AI and Machine Learning"/>
       <br/><br/>
-      <sub>Exploring intelligent systems, data, and practical ML applications.</sub>
+      <sub>Exploring intelligent systems and practical ML applications.</sub>
     </td>
   </tr>
 </table>
@@ -129,7 +127,6 @@
   <a href="mailto:code.chari.1707@gmail.com">
     <img src="https://img.shields.io/badge/LET'S_TALK-00D9FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Contact me by email"/>
   </a>
-  &nbsp;
   <a href="https://github.com/chari-1707">
     <img src="https://img.shields.io/badge/FOLLOW_MY_JOURNEY-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Follow on GitHub"/>
   </a>
