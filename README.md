@@ -1,27 +1,177 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>Full Stack Developer passionate about building scalable and impactful applications.<br><br>* 🚀 Currently improving my Backend Development and System Design skills.<br>* 🌱 Learning AI & Machine Learning alongside modern web technologies.<br>* 🤝 Open to collaborating with ambitious and like-minded developers.<br>* 💡 Interested in building industry-level products that solve real-world problems.<br>* 📚 Constantly learning, experimenting, and growing as a developer.<br><br>"Code, Learn, Build, Repeat."<br>
 
+<!-- ==================== HERO ==================== -->
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:code.chari.1707@gmail.com) 
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:14213D,100:00D9FF&text=SHANKARA%20CHARI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20THINGS%20THAT%20MATTER&descSize=15&descAlignY=58&animation=fadeIn"
+    width="100%"
+    alt="Shankara Chari — developer profile banner"
+  />
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=chari-1707&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=chari-1707&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=chari-1707&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/chari-1707">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&height=55&lines=Computer+Science+Student+%7C+Developer;Building+Web+Applications+%26+Backend+Systems;Learning+System+Design+One+Concept+at+a+Time;Code.+Learn.+Build.+Repeat."
+      alt="Animated introduction"
+    />
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chari-1707&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chari-1707&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="mailto:code.chari.1707@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  </a>
+  <a href="https://github.com/chari-1707?tab=repositories">
+    <img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Projects"/>
+  </a>
+  <a href="https://github.com/chari-1707?tab=followers">
+    <img src="https://img.shields.io/github/followers/chari-1707?style=for-the-badge&logo=github&label=FOLLOW&color=0D1117" alt="GitHub followers"/>
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=chari-1707&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ==================== ABOUT ==================== -->
+
+## `whoami`
+
+```text
+Name       : Shankara Chari
+Role       : Computer Science Student & Developer
+Interests  : Backend Engineering, Full Stack Development
+             System Design & Open Source
+Currently  : Learning, building, and shipping projects
+Mindset    : Understand the fundamentals. Build things.
+```
+
+I'm a CSE student who enjoys turning ideas into working software.
+
+Currently focused on strengthening my backend fundamentals, building web applications, and learning how to design systems that are reliable, maintainable, and scalable.
+
+I believe the best way to learn engineering is to build real things, understand what breaks, and keep improving.
+
+- `01` — Building web applications and backend APIs.
+- `02` — Strengthening problem-solving and DSA.
+- `03` — Exploring system design, Linux, and DevOps.
+- `04` — Exploring AI/ML and its practical applications.
+- `05` — Open to meaningful collaborations and open-source contributions.
+
+> **Less hype. More building. Better engineering.**
+
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+## `tech_stack`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,html,css&theme=dark" alt="Programming languages"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,bootstrap,npm,git,github,linux,vscode&theme=dark" alt="Development tools and technologies"/>
+</p>
+
+<p align="center">
+  <sub>
+    Currently deepening my backend and web development skills.
+    This stack reflects technologies I work with or am learning,
+    not equal proficiency in every tool.
+  </sub>
+</p>
+
+---
+
+<!-- ==================== SELECTED WORK ==================== -->
+
+## `selected_work`
+
+### 01. UniLink
+
+**A web application project**
+
+Exploring application development through a project that brings together frontend and backend engineering.
+
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-0D1117?style=flat-square&logo=github)](https://github.com/chari-1707/Unilink)
+
+### 02. KrishiMitra
+
+**Agriculture-focused project**
+
+Exploring technology-driven crop recommendations and practical applications for agriculture.
+
+[![Live Project](https://img.shields.io/badge/EXPLORE_PROJECT-0D1117?style=flat-square&logo=googlechrome&logoColor=00D9FF)](https://krishimitra.purlyedit.in)
+
+<p align="center">
+  <i>More projects, experiments, and engineering learnings are on the way.</i>
+</p>
+
+---
+
+<!-- ==================== GITHUB ACTIVITY ==================== -->
+
+## `github_activity`
+
+<p align="center">
+  <a href="https://github.com/chari-1707">
+    <img
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=chari-1707&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github"
+      alt="GitHub statistics"
+    />
+  </a>
+  <a href="https://github.com/chari-1707">
+    <img
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=chari-1707&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"
+      alt="Most-used public repository languages"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=chari-1707&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+<p align="center">
+  <sub>Statistics reflect public GitHub activity and may take time to update.</sub>
+</p>
+
+---
+
+<!-- ==================== CONNECT ==================== -->
+
+## `let's_connect`
+
+<p align="center">
+  Interested in building something useful, exchanging ideas,
+  or collaborating on a project?
+</p>
+
+<p align="center">
+  <a href="mailto:code.chari.1707@gmail.com">
+    <img src="https://img.shields.io/badge/LET'S_TALK-00D9FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Contact me by email"/>
+  </a>
+  <a href="https://github.com/chari-1707">
+    <img src="https://img.shields.io/badge/FOLLOW_MY_JOURNEY-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Follow on GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00D9FF,100:0D1117"
+    width="100%"
+    alt=""
+  />
+</p>
+
+<p align="center">
+  <b>CODE. LEARN. BUILD. REPEAT.</b>
+  <br/>
+  <sub>Every commit is another step forward.</sub>
+</p>
