@@ -3,17 +3,14 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090F,50:151B36,100:00E5FF&text=SHANKARA%20CHARI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20THE%20FUTURE%2C%20ONE%20COMMIT%20AT%20A%20TIME&descSize=12&descAlignY=58&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090F,50:151B36,100:00E5FF&text=SHANKARA%20CHARI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=CODE%20%E2%80%A2%20LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20REPEAT&descSize=15&descAlignY=58&animation=fadeIn"
     width="100%"
-    alt="Shankara Chari"
+    alt="Shankara Chari — Code, Learn, Build, Repeat"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&height=50&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Development+%2F%2F+Backend+Engineering;Exploring+System+Design+%26+Open+Source;Turning+Ideas+Into+Working+Software"
-    alt="Developer introduction"
-  />
+  <samp>Computer Science & Engineering · Developer · Lifelong Learner</samp>
 </p>
 
 <p align="center">
@@ -21,7 +18,7 @@
     <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
   <a href="https://github.com/chari-1707?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Repositories"/>
   </a>
   <a href="https://github.com/chari-1707?tab=followers">
     <img src="https://img.shields.io/github/followers/chari-1707?style=for-the-badge&logo=github&label=FOLLOW&color=0D1117" alt="Followers"/>
@@ -30,76 +27,79 @@
 
 ---
 
-<!-- ==================== IDENTITY ==================== -->
-
-## `whoami` // 001
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&height=45&lines=Curious+Mind.+Builder's+Mindset.;Think+Deeply.+Build+Fearlessly.;Always+Under+Construction." alt="Developer mindset"/>
-</p>
+## 👨‍💻 Who Am I?
 
 <p align="center">
   <samp>
-    CSE student &nbsp;·&nbsp; Developer &nbsp;·&nbsp; Lifelong learner
+    I turn curiosity into code and ideas into reality.
+    <br/>
+    Learning the fundamentals. Building real things.
+    <br/>
+    Always exploring what's possible.
   </samp>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Backend%20%26%20Full%20Stack-0D1117?style=flat-square&labelColor=0D1117&color=00E5FF" alt="Current focus"/>
-  <img src="https://img.shields.io/badge/EXPLORING-System%20Design-0D1117?style=flat-square&labelColor=0D1117&color=8B5CF6" alt="Exploring system design"/>
-  <img src="https://img.shields.io/badge/MODE-Build%20%26%20Learn-0D1117?style=flat-square&labelColor=0D1117&color=22C55E" alt="Build and learn"/>
-</p>
-
-<p align="center">
-  <i>
-    I don't want to just write code.<br/>
-    I want to understand how things work,<br/>
-    build things that matter, and make them better.
-  </i>
+  <img src="https://img.shields.io/badge/FOCUS-Backend%20%26%20Full%20Stack-0D1117?style=flat-square&color=00E5FF" alt="Backend and full stack"/>
+  <img src="https://img.shields.io/badge/MINDSET-Always%20Learning-0D1117?style=flat-square&color=8B5CF6" alt="Always learning"/>
 </p>
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
-
-## `tech_stack` // 002
+## 🛠️ Tech Stack
 
 <p align="center">
-  <sub>LANGUAGES</sub>
+  <strong>Languages</strong>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts&theme=dark" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts&theme=dark" alt="C++, C, Python, Java, JavaScript and TypeScript"/>
 </p>
 
 <p align="center">
-  <sub>WEB DEVELOPMENT & DATABASES</sub>
+  <strong>Web Development & Databases</strong>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,html,css,bootstrap&theme=dark" alt="Web development and databases"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,html,css,bootstrap&theme=dark" alt="Node.js, Express, MongoDB, MySQL, HTML, CSS and Bootstrap"/>
 </p>
 
 <p align="center">
-  <sub>TOOLS & ENVIRONMENT</sub>
+  <strong>Tools & Environment</strong>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,npm&theme=dark" alt="Development tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,npm&theme=dark" alt="Git, GitHub, Linux, VS Code and npm"/>
 </p>
 
 ---
 
-<!-- ==================== CURRENT DIRECTION ==================== -->
+## 🧭 Exploring & Growing
 
-## `current_direction` // 003
-
-```text
-[01]  BUILD       →  Full Stack & Backend Engineering
-[02]  STRENGTHEN  →  DSA & Problem Solving
-[03]  EXPLORE     →  System Design, Linux & DevOps
-[04]  DISCOVER    →  AI / ML & Open Source
-```
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/01-Backend%20Engineering-0D1117?style=for-the-badge&logo=serverfault&logoColor=00E5FF" alt="Backend Engineering"/>
+      <br/><br/>
+      <sub>Building reliable APIs and understanding what happens behind the scenes.</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/02-System%20Design-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=8B5CF6" alt="System Design"/>
+      <br/><br/>
+      <sub>Exploring how scalable, maintainable systems are designed.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/03-DevOps%20%26%20Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="DevOps and Linux"/>
+      <br/><br/>
+      <sub>Learning infrastructure, automation, and the tools behind deployment.</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/04-AI%20%26%20Machine%20Learning-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="AI and Machine Learning"/>
+      <br/><br/>
+      <sub>Exploring intelligent systems, data, and practical ML applications.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- ==================== GITHUB STATS ==================== -->
-
-## `github_activity` // 004
+## 📊 GitHub Activity
 
 <p align="center">
   <img
@@ -124,20 +124,12 @@
 
 ---
 
-<!-- ==================== FOOTER ==================== -->
-
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,100:09090F"
-    width="100%"
-    alt=""
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00E5FF,100:09090F" width="100%" alt=""/>
 </p>
 
 <p align="center">
-  <samp>
-    CODE. &nbsp; LEARN. &nbsp; BUILD. &nbsp; REPEAT.
-  </samp>
+  <strong>CODE · LEARN · BUILD · REPEAT</strong>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=chari-1707&style=flat-square&color=00E5FF&label=PROFILE+VISITORS" alt="Profile visitors"/>
 </p>
