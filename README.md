@@ -54,7 +54,11 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,html,css,nodejs,express,mongodb,mysql,bootstrap,npm,git,github,linux,vscode&theme=dark" alt="Technologies and tools"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts&theme=dark" alt="C++, C, Python, Java, JavaScript and TypeScript"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,mongodb,mysql&theme=dark" alt="HTML, CSS, Node.js, Express, MongoDB and MySQL"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,npm,git,github,linux,vscode&theme=dark" alt="Bootstrap, npm, Git, GitHub, Linux and VS Code"/>
 </p>
 
 ---
