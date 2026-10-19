@@ -1,4 +1,4 @@
- 
+
 <!-- ==================== HERO ==================== -->
 
 <p align="center">
@@ -35,6 +35,13 @@
 <!-- ==================== ABOUT ==================== -->
 
 ## `whoami`
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=45&lines=Curious+Mind.+Builder%27s+Mindset.;Think+Deeply.+Build+Fearlessly.;Always+Under+Construction."
+    alt="Developer mindset"
+  />
+</p>
 
 <p align="center">
   <samp>
@@ -147,7 +154,22 @@
   <a href="mailto:code.chari.1707@gmail.com">
     <img src="https://img.shields.io/badge/LET'S_TALK-00D9FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Contact me by email"/>
   </a>
+  &nbsp;
   <a href="https://github.com/chari-1707">
     <img src="https://img.shields.io/badge/FOLLOW_MY_JOURNEY-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Follow on GitHub"/>
   </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00D9FF,100:0D1117"
+    width="100%"
+    alt=""
+  />
+</p>
+
+<p align="center">
+  <b>CODE. LEARN. BUILD. REPEAT.</b>
+  <br/>
+  <sub>Every commit is another step forward.</sub>
 </p>
