@@ -3,9 +3,9 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090F,50:151B36,100:00E5FF&text=SHANKARA%20CHARI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=CODE%20%E2%80%A2%20LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20REPEAT&descSize=15&descAlignY=58&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090F,50:151B36,100:00E5FF&text=SHANKARA%20CHARI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20THINGS%20THAT%20MATTER&descSize=15&descAlignY=58&animation=fadeIn"
     width="100%"
-    alt="Shankara Chari — Code, Learn, Build, Repeat"
+    alt="Shankara Chari — Building Things That Matter"
   />
 </p>
 
@@ -30,6 +30,13 @@
 ## 👨‍💻 Who Am I?
 
 <p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=45&lines=Curious+Mind.+Builder%27s+Mindset.;Think+Deeply.+Build+Fearlessly.;Always+Under+Construction."
+    alt="Curious mind, builder's mindset"
+  />
+</p>
+
+<p align="center">
   <samp>
     I turn curiosity into code and ideas into reality.
     <br/>
@@ -49,21 +56,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <strong>Languages</strong>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts&theme=dark" alt="C++, C, Python, Java, JavaScript and TypeScript"/>
-</p>
-
-<p align="center">
-  <strong>Web Development & Databases</strong>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,html,css,bootstrap&theme=dark" alt="Node.js, Express, MongoDB, MySQL, HTML, CSS and Bootstrap"/>
-</p>
-
-<p align="center">
-  <strong>Tools & Environment</strong>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,npm&theme=dark" alt="Git, GitHub, Linux, VS Code and npm"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,html,css,nodejs,express,mongodb,mysql,bootstrap,npm,git,github,linux,vscode&theme=dark" alt="Technologies and tools"/>
 </p>
 
 ---
@@ -73,24 +66,24 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/01-Backend%20Engineering-0D1117?style=for-the-badge&logo=serverfault&logoColor=00E5FF" alt="Backend Engineering"/>
+      <img src="https://img.shields.io/badge/Backend%20Engineering-0D1117?style=for-the-badge&logo=serverfault&logoColor=00E5FF" alt="Backend Engineering"/>
       <br/><br/>
       <sub>Building reliable APIs and understanding what happens behind the scenes.</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/02-System%20Design-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=8B5CF6" alt="System Design"/>
+      <img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=8B5CF6" alt="System Design"/>
       <br/><br/>
       <sub>Exploring how scalable, maintainable systems are designed.</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/03-DevOps%20%26%20Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="DevOps and Linux"/>
+      <img src="https://img.shields.io/badge/DevOps%20%26%20Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="DevOps and Linux"/>
       <br/><br/>
-      <sub>Learning infrastructure, automation, and the tools behind deployment.</sub>
+      <sub>Learning infrastructure, automation, and deployment.</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/04-AI%20%26%20Machine%20Learning-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="AI and Machine Learning"/>
+      <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="AI and Machine Learning"/>
       <br/><br/>
       <sub>Exploring intelligent systems, data, and practical ML applications.</sub>
     </td>
@@ -120,6 +113,26 @@
     src="https://streak-stats.demolab.com?user=chari-1707&hide_border=true&background=0D1117&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
     alt="GitHub contribution streak"
   />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  Interested in building something useful, exchanging ideas,
+  <br/>
+  or collaborating on a project?
+</p>
+
+<p align="center">
+  <a href="mailto:code.chari.1707@gmail.com">
+    <img src="https://img.shields.io/badge/LET'S_TALK-00D9FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Contact me by email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/chari-1707">
+    <img src="https://img.shields.io/badge/FOLLOW_MY_JOURNEY-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Follow on GitHub"/>
+  </a>
 </p>
 
 ---
