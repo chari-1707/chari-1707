@@ -54,7 +54,7 @@
 <p align="center">
   <samp>WEB DEVELOPMENT</samp>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,bootstrap&theme=dark" alt="HTML, CSS, React, Next.js, Node.js, Express and Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,nodejs,express&theme=dark" alt="HTML, CSS, Tailwind CSS, Bootstrap, React, Next.js, Node.js and Express"/>
 </p>
 
 <p align="center">
