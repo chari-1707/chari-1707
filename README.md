@@ -46,11 +46,27 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts&theme=dark" alt="C++, C, Python, Java, JavaScript and TypeScript"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,mongodb,mysql&theme=dark" alt="HTML, CSS, Node.js, Express, MongoDB and MySQL"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=bootstrap,npm,git,github,linux,vscode&theme=dark" alt="Bootstrap, npm, Git, GitHub, Linux and VS Code"/>
+  <samp>LANGUAGES</samp>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" alt="C, C++, Java, Python, JavaScript and TypeScript"/>
+</p>
+
+<p align="center">
+  <samp>WEB DEVELOPMENT</samp>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,bootstrap&theme=dark" alt="HTML, CSS, Node.js, Express and Bootstrap"/>
+</p>
+
+<p align="center">
+  <samp>DATABASES</samp>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="MongoDB and MySQL"/>
+</p>
+
+<p align="center">
+  <samp>TOOLS & ENVIRONMENT</samp>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,npm&theme=dark" alt="Git, GitHub, Linux, VS Code and npm"/>
 </p>
 
 ---
