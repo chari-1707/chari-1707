@@ -1,4 +1,3 @@
-
 <!-- ==================== HERO ==================== -->
 
 <p align="center">
@@ -30,10 +29,13 @@
 ## 👨‍💻 Who Am I?
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=45&lines=Curious+Mind.+Builder%27s+Mindset.;Think+Deeply.+Build+Fearlessly.;Always+Under+Construction."
-    alt="Developer mindset"
-  />
+  <samp>
+    Curious Mind. Builder's Mindset.
+    <br/>
+    Think Deeply. Build Fearlessly.
+    <br/>
+    Always Under Construction.
+  </samp>
 </p>
 
 <p align="center">
