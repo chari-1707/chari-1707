@@ -30,16 +30,6 @@
 
 <p align="center">
   <samp>
-    Curious Mind. Builder's Mindset.
-    <br/>
-    Think Deeply. Build Fearlessly.
-    <br/>
-    Always Under Construction.
-  </samp>
-</p>
-
-<p align="center">
-  <samp>
     Building useful things, one line of code at a time.
     <br/>
     Focused on learning, solving problems, and getting better.
