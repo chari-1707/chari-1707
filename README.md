@@ -1,3 +1,4 @@
+ 
 <!-- ==================== HERO ==================== -->
 
 <p align="center">
@@ -122,8 +123,8 @@
 <p align="center">
   <img
     width="75%"
-    src="https://streak-stats.demolab.com?user=chari-1707&hide_border=true&background=0D1117&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-    alt="GitHub contribution streak"
+    src="https://streak-stats.demolab.com/?user=chari-1707&hide_border=true&background=0D1117&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&timezone=Asia%2FKolkata"
+    alt="GitHub contribution streak (Asia/Kolkata)"
   />
 </p>
 
