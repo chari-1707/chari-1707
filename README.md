@@ -1,170 +1,129 @@
- <!-- ==================== HERO ==================== -->
+<!-- ==================== HERO ==================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:09090F,45:111B32,100:123C52&text=SHANKARA%20CHARI&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20BACKEND%20ENGINEERING&descSize=15&descAlignY=60&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090F,50:151B36,100:00E5FF&text=SHANKARA%20CHARI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20THINGS%20THAT%20MATTER&descSize=15&descAlignY=58&animation=fadeIn"
     width="100%"
-    alt="Shankara Chari - Full Stack Developer"
+    alt="Shankara Chari — Building Things That Matter"
   />
 </p>
 
-<h3 align="center">
-  Building useful things. Understanding how they work.
-</h3>
+<p align="center">
+  <samp>Full Stack Developer · Backend Engineering · System Design</samp>
+</p>
 
 <p align="center">
   <a href="mailto:code.chari.1707@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
   <a href="https://github.com/chari-1707?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Repositories"/>
   </a>
   <a href="https://github.com/chari-1707?tab=followers">
-    <img src="https://img.shields.io/github/followers/chari-1707?style=for-the-badge&logo=github&label=Followers&color=0D1117" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/chari-1707?style=for-the-badge&logo=github&label=FOLLOW&color=0D1117" alt="Followers"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-<p>
-  I'm a Computer Science and Engineering student interested in building
-  practical software and understanding the engineering behind it.
-</p>
-
-- 💻 Interested in **Full Stack Development and Backend Engineering**.
-- ⚙️ Exploring server-side development, APIs, and database architecture.
-- 🐧 Learning Linux, DevOps, and infrastructure management.
-- 🧠 Strengthening problem-solving and software engineering fundamentals.
-- 🚀 Interested in building scalable and maintainable applications.
+## 👨‍💻 Who Am I?
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Primary%20Focus-Full%20Stack%20%26%20Backend-101827?style=flat-square&labelColor=101827&color=00D9FF"/>
-  <img src="https://img.shields.io/badge/Currently%20Exploring-Linux%20%26%20DevOps-101827?style=flat-square&labelColor=101827&color=8B5CF6"/>
+  <samp>
+    Building useful things, one line of code at a time.
+    <br/>
+    Focused on learning, solving problems, and getting better.
+  </samp>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-Backend%20%26%20Full%20Stack-0D1117?style=flat-square&color=00E5FF" alt="Backend and full stack"/>
+  <img src="https://img.shields.io/badge/EXPLORING-System%20Design-0D1117?style=flat-square&color=8B5CF6" alt="System design"/>
 </p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 <p align="center">
-  <strong>PROGRAMMING LANGUAGES</strong>
+  <samp>LANGUAGES</samp>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" alt="C, C++, Java, Python, JavaScript and TypeScript"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" alt="Programming languages"/>
+  <samp>WEB DEVELOPMENT</samp>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,nodejs,express&theme=dark" alt="HTML, CSS, Tailwind CSS, Bootstrap, React, Next.js, Node.js and Express"/>
 </p>
 
 <p align="center">
-  <strong>FRONTEND DEVELOPMENT</strong>
+  <samp>DATABASES & QUERY LANGUAGES</samp>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&theme=dark" alt="MongoDB, PostgreSQL, MySQL and SQLite"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=databricks&logoColor=00E5FF" alt="SQL"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend technologies"/>
-</p>
-
-<p align="center">
-  <strong>BACKEND DEVELOPMENT</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend technologies"/>
-</p>
-
-<p align="center">
-  <strong>DATABASES</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&theme=dark" alt="Databases"/>
-</p>
-
-<p align="center">
-  <strong>TOOLS & ENVIRONMENT</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,npm,bash&theme=dark" alt="Development tools"/>
+  <samp>TOOLS & ENVIRONMENT</samp>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,npm&theme=dark" alt="Git, GitHub, Linux, VS Code and npm"/>
 </p>
 
 ---
 
-## ⚙️ Engineering Interests
+## 🧭 Exploring & Growing
 
-<table width="100%">
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Backend Engineering</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Backend-0D1117?style=flat-square&logo=serverfault&logoColor=00D9FF"/>
-      </p>
-      <p align="center">
-        Designing APIs, working with databases, authentication, and building reliable server-side applications.
-      </p>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Backend%20Engineering-0D1117?style=for-the-badge&logo=serverfault&logoColor=00E5FF" alt="Backend Engineering"/>
+      <br/><br/>
+      <sub>Building reliable APIs and understanding what happens behind the scenes.</sub>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">System Design</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Architecture-0D1117?style=flat-square&logo=diagramsdotnet&logoColor=8B5CF6"/>
-      </p>
-      <p align="center">
-        Understanding application architecture, scalability, distributed systems, and maintainability.
-      </p>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=8B5CF6" alt="System Design"/>
+      <br/><br/>
+      <sub>Exploring how scalable, maintainable systems are designed.</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">DevOps & Linux</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Infrastructure-0D1117?style=flat-square&logo=linux&logoColor=FCC624"/>
-      </p>
-      <p align="center">
-        Exploring server administration, networking, deployment, automation, and infrastructure.
-      </p>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/DevOps%20%26%20Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="DevOps and Linux"/>
+      <br/><br/>
+      <sub>Exploring infrastructure, automation, and deployment.</sub>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Problem Solving</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/DSA-0D1117?style=flat-square&logo=leetcode&logoColor=FFA116"/>
-      </p>
-      <p align="center">
-        Practicing data structures, algorithms, and developing stronger problem-solving skills.
-      </p>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="AI and Machine Learning"/>
+      <br/><br/>
+      <sub>Exploring intelligent systems and practical ML applications.</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=chari-1707&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github"
-    alt="GitHub Statistics"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=chari-1707&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github"
+    alt="GitHub statistics"
   />
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chari-1707&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"
-    alt="Most Used Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com/?user=chari-1707&hide_border=true&background=0D1117&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&timezone=Asia%2FKolkata"
-    alt="GitHub Contribution Streak"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chari-1707&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9"
+    alt="Most-used repository languages"
   />
 </p>
 
 <p align="center">
   <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=chari-1707&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=8B5CF6&area=true&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
+    width="75%"
+    src="https://streak-stats.demolab.com/?user=chari-1707&hide_border=true&background=0D1117&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&timezone=Asia%2FKolkata"
+    alt="GitHub contribution streak (Asia/Kolkata)"
   />
 </p>
 
@@ -173,33 +132,28 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  I'm always interested in learning, exchanging ideas, and collaborating
-  on meaningful projects.
+  Interested in building something useful, exchanging ideas,
+  <br/>
+  or collaborating on a project?
 </p>
 
 <p align="center">
   <a href="mailto:code.chari.1707@gmail.com">
-    <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-00D9FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email"/>
+    <img src="https://img.shields.io/badge/LET'S_TALK-00D9FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Contact me by email"/>
   </a>
   <a href="https://github.com/chari-1707">
-    <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/FOLLOW_MY_JOURNEY-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Follow on GitHub"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:123C52,100:09090F"
-    width="100%"
-    alt=""
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00E5FF,100:09090F" width="100%" alt=""/>
 </p>
 
 <p align="center">
   <strong>CODE · LEARN · BUILD · REPEAT</strong>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chari-1707&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=chari-1707&style=flat-square&color=00E5FF&label=PROFILE+VISITORS" alt="Profile visitors"/>
 </p>
